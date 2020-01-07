@@ -1,0 +1,23 @@
+#top-navbar-list {
+  text-align: right;
+}
+
+#top-navbar-list li {
+  list-style: none;
+  display: inline-block;
+  margin-right: 20px; 
+  font-size: 12px
+}
+
+#top-navbar-list button {
+  background: #4387fd;
+  color: white;
+  padding: 2px 10px;
+  font-weight: bold;
+}
+
+#main-content {
+    margin: auto;
+    text-align: center;
+    width: 500px;
+}
