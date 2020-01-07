@@ -1,1 +1,1 @@
-This is Kuba's GIT project!
+This is the google homepage created by me. It is a very simple project, with the usage of HTML5 and CSS3.
