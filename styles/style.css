@@ -313,3 +313,23 @@ a {
     padding-right: 15px;
     margin-top: 5px;
 }
+
+#pages-related p {
+    font-size: 20px;
+    margin: 2px;
+}
+
+#pages-related li {
+    list-style: none;
+    margin-right: 18px; 
+    font-size: 13px;
+    height: 25px;
+    color: #2200cc;
+    font-weight: bold;
+  }
+
+  #pages-related ul {
+    display: inline-block;
+    padding-left: 0;
+      
+  }
